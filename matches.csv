@@ -1,0 +1,31 @@
+match_id,season,venue,team1,team2,toss_winner,toss_decision,winner
+1001,2024,M. Chinnaswamy Stadium,RCB,GT,RCB,field,GT
+1002,2025,Narendra Modi Stadium,GT,MI,MI,field,MI
+1003,2024,MA Chidambaram Stadium,CSK,KKR,CSK,bat,CSK
+1004,2026,Wankhede Stadium,MI,RCB,MI,field,RCB
+1005,2025,Eden Gardens,KKR,CSK,CSK,field,KKR
+1006,2024,M. Chinnaswamy Stadium,RCB,MI,MI,field,MI
+1007,2024,Narendra Modi Stadium,GT,CSK,GT,bat,CSK
+1008,2026,MA Chidambaram Stadium,CSK,GT,GT,field,GT
+1009,2025,Wankhede Stadium,MI,KKR,MI,bat,MI
+1010,2025,Eden Gardens,KKR,RCB,KKR,field,RCB
+1011,2024,M. Chinnaswamy Stadium,RCB,CSK,RCB,field,RCB
+1012,2026,Narendra Modi Stadium,GT,KKR,KKR,field,GT
+1013,2024,MA Chidambaram Stadium,CSK,MI,MI,field,CSK
+1014,2025,Wankhede Stadium,MI,GT,GT,bat,
+1015,2025,Eden Gardens,KKR,MI,MI,field,KKR
+1016,2026,M. Chinnaswamy Stadium,RCB,GT,GT,bat,RCB
+1017,2024,Narendra Modi Stadium,GT,MI,MI,field,MI
+1018,2024,MA Chidambaram Stadium,CSK,KKR,KKR,field,CSK
+1019,2025,Wankhede Stadium,MI,RCB,RCB,field,MI
+1020,2026,Eden Gardens,KKR,CSK,CSK,field,KKR
+1021,2025,M. Chinnaswamy Stadium,RCB,MI,MI,field,RCB
+1022,2024,Narendra Modi Stadium,GT,CSK,CSK,field,GT
+1023,2025,MA Chidambaram Stadium,CSK,GT,GT,field,CSK
+1024,2026,Wankhede Stadium,MI,KKR,MI,bat,MI
+1025,2024,Eden Gardens,KKR,RCB,RCB,field,RCB
+1026,2025,M. Chinnaswamy Stadium,RCB,CSK,CSK,field,CSK
+1027,2026,Narendra Modi Stadium,GT,KKR,KKR,field,GT
+1028,2024,MA Chidambaram Stadium,CSK,MI,CSK,bat,CSK
+1029,2025,Wankhede Stadium,MI,GT,MI,field,MI
+1030,2026,Eden Gardens,KKR,MI,KKR,bat,KKR
